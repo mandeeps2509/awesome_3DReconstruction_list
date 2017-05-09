@@ -113,6 +113,8 @@
 
 [Direct Sparse Odometry](https://www.arxiv.org/abs/1607.02565), J. Engel, V. Koltun, D. Cremers, arXiv:1607.02565, 2016.
 
+[SVO: Fast Semi-Direct Monocular Visual Odometry](rpg.ifi.uzh.ch/docs/TRO16_Forster-SVO.pdf), Christian Forster, Matia Pizzoli, Davide Scaramuzza, ICRA 2014
+
 <a name="papers-sfm"></a>
 ## SfM papers
 
